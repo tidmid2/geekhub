@@ -1,0 +1,260 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/003/194/942/large/aoi-ogata-oko.jpg?1470887303);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.contact{
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/003/764/969/large/aoi-ogata-edgeoftheworld2223.jpg?1477269601);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.main4{
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/007/296/074/large/aoi-ogata-territorydeath.jpg?1505141392);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.third{
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/005/053/520/large/aoi-ogata-redlanter.jpg?1488168167);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.tthird{
+   background-image: url(https://wallpaperscave.ru/images/original/18/01-12/anime-naruto-9121.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.ttthird{
+   background-image: url(https://vsthemes.ru/uploads/posts/2020-01/1580460760_vsthemes_ru-49.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.tttthird{
+   background-image: url(https://wallpapercave.com/wp/wp6888904.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.ttthhird{
+   background-image: url(https://steamuserimages-a.akamaihd.net/ugc/981107696134445228/076D5A3658F3B02D8B62A2B9A097C4BFF74FFD8A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+    
+.menu3{
+    min-height: 900px;
+    display: block;
+}
+.menu4{
+    min-height: 900px;
+    display: block;
+    font-size: 20px;
+}
+.link{
+    margin-left: 10%;
+    margin-top: 30px; 
+    font-size: 30px;
+    color: black;
+}
+
+.mmenu{
+    min-height: 900px;
+    display: block;
+}
+.textm{
+    margin: 0px auto;
+}
+.header{
+    width:100%;
+    display: flex;
+}
+.header_content{
+    width: 100%;
+    background: #597da3;
+}
+.header_logo{
+    color: white;
+    font-weight: 900;
+    font-size: 32px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 5%;
+}
+nav{
+    margin-top: 1px;
+    margin-left: 29%;
+}
+.topnav{
+    color: whitesmoke;
+    text-align: center;
+    padding: 16px 22px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.topnav a:hover{
+    border-bottom: 3px solid #fcac45;
+    
+}
+.topnav .icon{
+    display: none;
+}
+.main:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.url1{
+    font-style: italic;
+    font-size: 30px;
+}
+.musc{
+    font-size: 30px;
+
+}
+.a1{
+    font-size: 50px;
+}
+.e{
+    font-size: 50px;
+    padding: 70px;
+}
+
+.playlist{
+    text-align: center;
+    font-size: 30px;
+}
+.main { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.main { display: block; }
+/* close commented backslash hack */
+/*
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+*/
+.sidebar{
+    width: 30%;
+    float: left;
+}
+.left_menu{
+    min-height: 1850px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 10px solid #8c000f;
+    padding: 10px;
+}
+.menu{
+    width: 70%;
+    float: left;
+}
+.content_menu{  
+    padding: 10px;
+    min-height: 700px;
+}
+.news{
+    margin-bottom: 3px;
+}
+.nnews{
+    border: 1px solid black;
+    margin-bottom: 5px
+}
+.mainnews{
+    border: 1px solid black;
+    margin-bottom: 5px
+}
+
+/*
+.main_gif{
+    float: center;
+    width: auto;
+    height: auto; 
+    background-color: rgb(63, 63, 63);
+}*/
+.footer_content{
+    background: black;
+    text-align: center;
+    font-size: 20px;
+}
+.logo_su{
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+.main4:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.main4 { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.main4 { display: block; }
+/* close commented backslash hack */
+/*
+.main4{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+*/
+.sidebar4{
+    width: 30%;
+    float: left;
+}
+.left_menu4{
+    min-height: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 10px solid #8c000f;
+    padding: 10px;
+}
+.menu4{
+    width: 70%;
+    float: left;
+}
+.content_menu4{  
+    padding: 10px;
+    min-height: 700px;
+}
+.catrgori{
+    margin-bottom: 3px;
+}
+.ccategori{
+    margin-bottom: 5px
+}
+.maincategori{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 5px
+}
+.videoname{
+    font-size: 40px;
+}
+.menu3{
+    text-align: center;
+}
